@@ -118,6 +118,7 @@ div.folha1 {
     height: 150px;
     background-image: url(../imgs/secao09-folha1.png);
     background-repeat: no-repeat;
+    opacity: 0;
 }
 
 div.camarao {
@@ -127,6 +128,7 @@ div.camarao {
     width: 150px;
     height: 150px;
     background: url(../imgs/secao09-camarao.jpg) no-repeat;
+    opacity: 0;
 }
 
 div.folha2 {
@@ -136,6 +138,7 @@ div.folha2 {
     width: 150px;
     height: 150px;
     background: url(../imgs/secao09-folha2.png) no-repeat;
+    opacity: 0;
 }
 
 div.folha3 {
@@ -145,6 +148,7 @@ div.folha3 {
     width: 160px;
     height: 150px;
     background: url(../imgs/secao09-folha3.png) no-repeat;
+    opacity: 0;
 }
 
 div.tomate {
@@ -154,6 +158,7 @@ div.tomate {
     width: 160px;
     height: 150px;
     background: url(../imgs/secao09-tomate.png) no-repeat;
+    opacity: 0;
 }
 
 div.queijo {
@@ -163,6 +168,7 @@ div.queijo {
     width: 160px;
     height: 150px;
     background: url(../imgs/secao09-queijo.jpg) no-repeat;
+    opacity: 0;
 }
 
 div.domingo-perfeito-centro {
